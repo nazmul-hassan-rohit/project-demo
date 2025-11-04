@@ -1,4 +1,3 @@
 # project-demo
-This is my first Git Repository
-<dr>
+This is my first Git Repository. 
 Auther - Nazmul Hassan 
